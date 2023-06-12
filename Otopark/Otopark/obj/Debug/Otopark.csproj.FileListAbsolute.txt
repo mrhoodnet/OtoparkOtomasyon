@@ -1,0 +1,12 @@
+C:\Users\aytun\source\repos\Otopark\Otopark\bin\Debug\Otopark.exe.config
+C:\Users\aytun\source\repos\Otopark\Otopark\bin\Debug\Otopark.exe
+C:\Users\aytun\source\repos\Otopark\Otopark\bin\Debug\Otopark.pdb
+C:\Users\aytun\source\repos\Otopark\Otopark\bin\Debug\Guna.UI2.dll
+C:\Users\aytun\source\repos\Otopark\Otopark\obj\Debug\Otopark.csprojAssemblyReference.cache
+C:\Users\aytun\source\repos\Otopark\Otopark\obj\Debug\Otopark.Form1.resources
+C:\Users\aytun\source\repos\Otopark\Otopark\obj\Debug\Otopark.Properties.Resources.resources
+C:\Users\aytun\source\repos\Otopark\Otopark\obj\Debug\Otopark.csproj.GenerateResource.cache
+C:\Users\aytun\source\repos\Otopark\Otopark\obj\Debug\Otopark.csproj.CoreCompileInputs.cache
+C:\Users\aytun\source\repos\Otopark\Otopark\obj\Debug\Otopark.csproj.CopyComplete
+C:\Users\aytun\source\repos\Otopark\Otopark\obj\Debug\Otopark.exe
+C:\Users\aytun\source\repos\Otopark\Otopark\obj\Debug\Otopark.pdb
